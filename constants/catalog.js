@@ -7,7 +7,7 @@ const CATALOG = [{
   },
     {
       "author": "David Herman",
-      "imageLink": "image/Catalog/effective-JavaScript-68-Specific-Ways-to-Harness-the-Power-of-JS.jpg",
+      "imageLink": "image/Catalog/Effective-JavaScript-68-Specific-Ways-to-Harness-the-Power-of-JS.jpg",
       "title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
       "price": 22,
       "description": "Effective JavaScript is organized around 68 proven approaches for writing better JavaScript, backed by concrete examples. You’ll learn how to choose the right programming style for each project, manage unanticipated problems, and work more successfully with every facet of JavaScript programming from data structures to concurrency"
