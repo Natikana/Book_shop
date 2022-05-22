@@ -1,0 +1,88 @@
+.shopping_container {
+    position: fixed;
+    width: 97%;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: auto;
+    padding: var(--spacing-large);
+    background-color: var(--color-ligth);
+    box-shadow: var(--box-shadow);
+}
+.active {
+    display: none;
+}
+.shopping_cross {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    background-image: url('img/cross.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.shopping_title {
+    text-align: start;
+    color: var(--color-blue);
+    padding-left: var(--spacing-medium);
+}
+/* .shopping_element__block {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+} */
+.shopping_row_active {
+    display: none;
+}
+.shopping_element__author {
+    padding: var(--spacing-medium);
+    color: var(--color-blue);
+    padding-right: var(--spacing-large);
+
+}
+.shopping_element__book, .shopping_element__wallet {
+    width: 35px;
+    height: 35px;
+}
+.shopping_element__title {
+    padding: var(--spacing-medium);
+    color: var(--color-grey);
+}
+.shopping_element__price {
+    padding: var(--spacing-medium);
+    color: var(--color-grey);
+}
+.btn {
+    cursor: pointer;
+    width: 80px;
+    height: 30px;
+    background-color: var(--color-white);
+    border: none;
+    border-radius: 3px;
+    box-shadow: var(--box-shadow);
+
+}
+.btn:hover {
+    background-color: var(--color-blue);
+    color: var(--color-blue);
+}
+.shopping__form {
+    text-decoration: none;
+    color: var(--color-blue);
+}
+.shopping__form:hover {
+    color: var(--color-white);
+}
+.shopping_element__cross {
+    background-image: url(img/cross.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}

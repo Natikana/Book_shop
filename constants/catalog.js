@@ -1,4 +1,5 @@
 const CATALOG = [{
+    "id" : "b1",
     "author": "Douglas Crockford",
     "imageLink": "image/Catalog/The-Good-Parts-The-Good-Parts.jpg",
     "title": "JavaScript: The Good Parts: The Good Parts",
@@ -6,6 +7,7 @@ const CATALOG = [{
     "description": "With JavaScript: The Good Parts, you'll discover a beautiful, elegant, lightweight and highly expressive language that lets you create effective code, whether you're managing object libraries or just trying to get Ajax to run fast. If you develop sites or applications for the Web, this book is an absolute must"
   },
     {
+      "id" : "b2",
       "author": "David Herman",
       "imageLink": "image/Catalog/Effective-JavaScript-68-Specific-Ways-to-Harness-the-Power-of-JS.jpg",
       "title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
@@ -13,6 +15,7 @@ const CATALOG = [{
       "description": "Effective JavaScript is organized around 68 proven approaches for writing better JavaScript, backed by concrete examples. You’ll learn how to choose the right programming style for each project, manage unanticipated problems, and work more successfully with every facet of JavaScript programming from data structures to concurrency"
     },
     {
+      "id" : "b3",
       "author": "David Flanagan",
       "imageLink": "image/Catalog/The-Definitive-Guide.jpg",
       "title": "JavaScript: The Definitive Guide",
@@ -20,6 +23,7 @@ const CATALOG = [{
       "description": "This Fifth Edition is completely revised and expanded to cover JavaScript as it is used in today's Web 2.0 applications. This book is both an example-driven programmer's guide and a keep-on-your-desk reference, with new chapters that explain everything you need to know to get the most out of JavaScript"
     },
     {
+      "id" : "b4",
       "author": " Eric Elliott",
       "imageLink": "image/Catalog/Programming-JavaScript-Applications.jpg",
       "title": "Programming JavaScript Applications",
@@ -27,6 +31,7 @@ const CATALOG = [{
       "description": "Take advantage of JavaScript’s power to build robust web-scale or enterprise applications that are easy to extend and maintain. By applying the design patterns outlined in this practical book, experienced JavaScript developers will learn how to write flexible and resilient code that’s easier—yes, easier—to work with as your code base grows."
     },
     {
+      "id" : "b5",
       "author": "Addy Osmani",
       "imageLink": "image/Catalog/Learning-JavaScript-Design-Patterns.jpg",
       "title": "Learning JavaScript Design Patterns",
@@ -34,6 +39,7 @@ const CATALOG = [{
       "description": "With Learning JavaScript Design Patterns, you’ll learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language. If you want to keep your code efficient, more manageable, and up-to-date with the latest best practices, this book is for you."
     },
     {
+      "id" : "b6",
       "author": "Boris Cherny",
       "imageLink": "image/Catalog/Programming-TypeScript.jpg",
       "title": "Programming TypeScript",
@@ -41,6 +47,7 @@ const CATALOG = [{
       "description": "Any programmer working with a dynamically typed language will tell you how hard it is to scale to more lines of code and more engineers. That’s why Facebook, Google, and Microsoft invented gradual static type layers for their dynamically typed JavaScript and Python code. This practical book shows you how one such type layer, TypeScript, is unique among them: it makes programming fun with its powerful static type system."
     },
     {
+      "id" : "b7",
       "author": "Alex Banks, Eve Porcello",
       "imageLink": "image/Catalog/Learning-React-2nd-Edition.jpg",
       "title": "Learning React, 2nd Edition",
@@ -48,6 +55,7 @@ const CATALOG = [{
       "description": "If you want to learn how to build efficient React applications, this is your book. Ideal for web developers and software engineers who understand how JavaScript, CSS, and HTML work in the browser, this updated edition provides best practices and patterns for writing modern React code. No prior knowledge of React or functional JavaScript is necessary."
     },
     {
+      "id" : "b8",
       "author": "Bradley Meck Alex Young and Mike Cantelon",
       "imageLink": "image/Catalog/Node.js-in-Action.png",
       "title": "Node.js in Action",
@@ -55,6 +63,7 @@ const CATALOG = [{
       "description": "Node.js in Action, Second Edition is a thoroughly revised book based on the best-selling first edition. It starts at square one and guides you through all the features, techniques, and concepts you'll need to build production-quality Node applications."
     },
     {
+      "id" : "b9",
       "author": "Kyle Simpson",
       "imageLink": "image/Catalog/You-Don't-Know-JS.jpg",
       "title": "You Don't Know JS Yet: Get Started",
@@ -62,6 +71,7 @@ const CATALOG = [{
       "description": "It seems like there's never been as much widespread desire before for a better way to deeply learn the fundamentals of JavaScript. But with a million blogs, books, and videos out there, just where do you START? Look no further!"
     },
     {
+      "id" : "b10",
       "author": "John Resig and Bear Bibeault",
       "imageLink": "image/Catalog/SecretsOfTheJavaScriptNinja.jpg",
       "title": "Secrets of the JavaScript Ninja",
