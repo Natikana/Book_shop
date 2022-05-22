@@ -1,6 +1,9 @@
 :root {
     --color-ligth:whitesmoke;
     --color-white:#fff;
+    --color-grey: grey;
+    --color-hover:#342D7E;
+    --color-blue:#4863A0;
     --spacing-small: 10px;
     --spacing-medium: 15px;
     --spacing-large: 30px;
@@ -22,6 +25,9 @@ body {
     line-height: 1.7;
     background-color: var(--color-ligth);
 }
-h1 {
+/* h1 {
     text-align: center;
-}
+    font-size: 28px;
+    font-style: italic;
+    color: var(--color-blue);
+} */
